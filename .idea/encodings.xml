@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/storeApi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storePotal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storePotal/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storeServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storeServer/src/main/resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storeServerApi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxl-portal-annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxl-portal-annotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxl-server-annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxl-server-annotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxlPortal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxlPortal/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxlServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xxlServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../storeBoot/src/main/java" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/enjoyStore.iml" filepath="$PROJECT_DIR$/enjoyStore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storeServer/store_Server.iml" filepath="$PROJECT_DIR$/storeServer/store_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storeServerApi/store_Server_Api.iml" filepath="$PROJECT_DIR$/storeServerApi/store_Server_Api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storeApi/store_api.iml" filepath="$PROJECT_DIR$/storeApi/store_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storePotal/store_portal.iml" filepath="$PROJECT_DIR$/storePotal/store_portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../storeBoot/storeboot.iml" filepath="$PROJECT_DIR$/../storeBoot/storeboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxl-portal-annotation/xxl-portal-annotation.iml" filepath="$PROJECT_DIR$/xxl-portal-annotation/xxl-portal-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxl-server-annotation/xxl-server-annotation.iml" filepath="$PROJECT_DIR$/xxl-server-annotation/xxl-server-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxlPortal/xxlPortal-xml.iml" filepath="$PROJECT_DIR$/xxlPortal/xxlPortal-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxlServer/xxlServer-xml.iml" filepath="$PROJECT_DIR$/xxlServer/xxlServer-xml.iml" />
+    </modules>
+  </component>
+</project>
