@@ -7,11 +7,11 @@ import java.io.IOException;
 public class StoreServer {
     public static void main(String[] args) throws IOException {
         /**
-         * dubbo-xml.xml
+         * dubbo1.xml
          * dubbo_annotation.xml
          */
         ClassPathXmlApplicationContext context =
-                new ClassPathXmlApplicationContext("classpath:dubbo-xml.xml");
+                new ClassPathXmlApplicationContext("classpath:dubbo1.xml");
         context.start();
 
         System.out.println("-----dubbo开启-----");

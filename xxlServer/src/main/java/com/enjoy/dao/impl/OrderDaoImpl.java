@@ -7,7 +7,11 @@ import org.springframework.stereotype.Service;
 public class OrderDaoImpl implements OrderDao {
     @Override
     public String getDetail(String id) {
-
-        return "订单金额500元";
+        try {
+            Thread.sleep(2000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        return "订单金额600元";
     }
 }

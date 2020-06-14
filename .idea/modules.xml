@@ -9,9 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/storePotal/store_portal.iml" filepath="$PROJECT_DIR$/storePotal/store_portal.iml" />
       <module fileurl="file://$PROJECT_DIR$/../storeBoot/storeboot.iml" filepath="$PROJECT_DIR$/../storeBoot/storeboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/xxl-portal-annotation/xxl-portal-annotation.iml" filepath="$PROJECT_DIR$/xxl-portal-annotation/xxl-portal-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxlServer/xxl-server.iml" filepath="$PROJECT_DIR$/xxlServer/xxl-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/xxl-server-annotation/xxl-server-annotation.iml" filepath="$PROJECT_DIR$/xxl-server-annotation/xxl-server-annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/xxlPortal/xxlPortal-xml.iml" filepath="$PROJECT_DIR$/xxlPortal/xxlPortal-xml.iml" />
-      <module fileurl="file://$PROJECT_DIR$/xxlServer/xxlServer-xml.iml" filepath="$PROJECT_DIR$/xxlServer/xxlServer-xml.iml" />
     </modules>
   </component>
 </project>

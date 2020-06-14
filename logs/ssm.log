@@ -1,0 +1,2 @@
+[INFO] [2020-06-13 19:40:29][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@161cd475: startup date [Sat Jun 13 19:40:29 CST 2020]; root of context hierarchy
+[INFO] [2020-06-13 19:40:29][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [dubbo-xml.xml]

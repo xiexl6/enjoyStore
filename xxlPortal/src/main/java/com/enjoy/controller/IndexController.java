@@ -29,11 +29,12 @@ public class IndexController implements ApplicationContextAware {
 
     @RequestMapping(value = "/index", method = RequestMethod.GET)
     public String index(HttpServletRequest request, HttpServletResponse response) {
-
+        long start = System.currentTimeMillis();
         String id = request.getParameter("id");
         String userView = userService.getDetail(id);
         String orderView = orderService.getDetail(id);
-
+        long end = System.currentTimeMillis();
+        System.out.println("用时:"+(end-start));
         request.setAttribute("userView", userView);
         request.setAttribute("orderView", orderView);
         return "index1";

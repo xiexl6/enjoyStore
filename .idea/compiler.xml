@@ -6,14 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="xxlServer-xml" />
-        <module name="storeboot" />
-        <module name="xxlPortal-xml" />
         <module name="store_portal" />
+        <module name="xxlPortal-xml" />
+        <module name="xxl-server" />
+        <module name="store_Server_Api" />
         <module name="store_Server" />
         <module name="store_api" />
         <module name="xxl-server-annotation" />
-        <module name="store_Server_Api" />
+        <module name="storeboot" />
         <module name="xxl-portal-annotation" />
       </profile>
     </annotationProcessing>
@@ -25,6 +25,7 @@
       <module name="store_Server_Api" target="1.7" />
       <module name="storeboot" target="1.7" />
       <module name="xxl-portal-annotation" target="1.7" />
+      <module name="xxl-server" target="1.7" />
       <module name="xxl-server-annotation" target="1.7" />
       <module name="xxlPortal-xml" target="1.7" />
       <module name="xxlServer-xml" target="1.7" />
